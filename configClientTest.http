@@ -1,0 +1,5 @@
+### GET request to example server
+GET localhost:8088/test
+
+###
+POST localhost:8088/actuator/refresh
